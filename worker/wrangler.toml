@@ -1,0 +1,11 @@
+name = "fuhsin"
+type = "javascript"
+
+account_id = "63af18ab202e2d0b871e797d43eff7a4"
+workers_dev = true
+route = ""
+zone_id = ""
+kv_namespaces = [ 
+	 { binding = "test1", id = "c0040f9b4220478e91477d01f7d69c1b", preview_id = "0b581d98846c481c91a4e8477937a6af" }
+]
+compatibility_date = "2021-10-28"
